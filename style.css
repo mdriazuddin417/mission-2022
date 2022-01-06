@@ -11,7 +11,7 @@ h2{font-size:30px;line-height:20px}
 .tomato-color{color:tomato;margin-top:-40px}
 .playfair-font{font-family:'Playfair Display'}
 .half-mission{line-height:20px;position:relative;padding-left:15px}
-.half-mission :before{content:"";position:absolute;background:tomato;width:88px;height:5px;transform:rotate(
+.half-mission :before{content:"";position:absolute;background:tomato;width:94px;height:5px;transform:rotate(
 270deg);top:47%;left:-6%;border-radius:10px}
 .link{background-image:linear-gradient(red,tomato);padding:10px 40px;border-radius:5px;text-decoration:none;color:#fff;font-weight:600}
 .dream-mission h1{text-align:center}
