@@ -1,0 +1,31 @@
+body{font-family:Poppins,sans-serif;margin:0}
+section{padding-left:5%;margin-right:5}
+h1{font-size:50px;padding-left:10px}
+.border-left-slide{margin-bottom:75px}
+h2{font-size:30px;line-height:20px}
+#f-margin-change{margin-top:120px}
+.flexible-container{display:flex;margin-bottom:80px}
+.half-width{width:50%}
+.half-width p{padding-bottom:15px;text-align:justify;margin-top:30px}
+.half-width img{width:90%;padding-left:8%}
+.tomato-color{color:tomato;margin-top:-40px}
+.playfair-font{font-family:'Playfair Display';}
+.half-mission{line-height:32px;border-left:5px solid tomato;height:105px}
+.link{background-image:linear-gradient(red,tomato);padding:10px 40px;border-radius:5px;text-decoration:none;color:#fff;font-weight:600}
+.dream-mission h1{text-align:center}
+.extra img{width:40%}
+.extra{width:30%;padding:25px 30px;border-radius:20px;margin:1%}
+.flexible{justify-content:center}
+.mission{background-color:#edf5f6}
+.vission{background-color:#fee}
+.goals{background-color:#fff4d5}
+.develope-With{background-image:url(images/shapes/shape-4.png);background-position:left;background-repeat:no-repeat;background-size:40%}
+.global-community{background-image:url(images/shapes/shape-6.png);background-position:right;background-repeat:no-repeat;background-size:33%}
+#web-pic{width:60%;padding:3%}
+#web-pic img{width:90%}
+.web-width{margin-top: 32px;}
+.web-width p{margin-bottom:38px;line-height:30px}
+footer{text-align:center;padding:2%;background-color:#000;color:#fff;margin-bottom:0}
+.contact h1{text-align:center}
+h3{font-size:25px}
+.follow-icon i{font-size:37px;padding:13px}
